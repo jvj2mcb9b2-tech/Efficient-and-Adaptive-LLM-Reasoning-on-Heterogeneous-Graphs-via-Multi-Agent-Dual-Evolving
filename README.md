@@ -1,3 +1,4 @@
+TSHIUNZA MWAMBA SAMUEL 2024022031 le 3/10/2026
 This repository implements an efficient and adaptive reasoning framework for Large Language Models (LLMs) operating on heterogeneous graphs. It introduces a multi-agent system with a dual-evolving mechanism that jointly optimizes:
 
 Graph-Evolving: Dynamic subgraph construction, pruning, and edge reweighting for task-specific relevance.
